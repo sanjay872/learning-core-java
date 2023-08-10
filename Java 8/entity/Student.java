@@ -10,6 +10,10 @@ public class Student
 
     String specialization;
 
+    public Student(){
+
+    }
+
     public Student(int id, String name, double percentage, String specialization)
     {
         this.id = id;
