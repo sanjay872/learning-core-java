@@ -11,3 +11,7 @@
    - shorthand to call method.
 4) Interface Changes
     - Refer InterfaceChanges folder.
+5) Stream
+   - Refer Streams folder.
+6) collectors
+   - Refer collectors folder
