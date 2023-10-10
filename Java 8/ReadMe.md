@@ -15,3 +15,6 @@
    - Refer Streams folder.
 6) collectors
    - Refer collectors folder
+7) Optional Class
+   - to overcome null pointer exception.
+   - Refer Optional Class
