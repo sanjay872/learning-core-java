@@ -18,3 +18,10 @@
 7) Optional Class
    - to overcome null pointer exception.
    - Refer Optional Class
+8) Spliterator
+   - There are three iterator till java 7,
+     - Enumeration
+     - Iterator
+     - ListIterator
+   - In java 8, Spliterator is introduced.
+   - Refer SpliteratorClass file
