@@ -25,3 +25,5 @@
      - ListIterator
    - In java 8, Spliterator is introduced.
    - Refer SpliteratorClass file
+9) Interface vs Abstract class
+   - Refer InterfaceVsAbstract folder
