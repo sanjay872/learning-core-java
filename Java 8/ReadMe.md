@@ -27,3 +27,6 @@
    - Refer SpliteratorClass file
 9) Interface vs Abstract class
    - Refer InterfaceVsAbstract folder
+10) Map vs FlatMap 
+   - Both are similar but only one difference.
+   - Refer MapVsFlatMap class
