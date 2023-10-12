@@ -37,3 +37,5 @@
       - Collectors.joining()
 12) HashMap sorting by comparing key or value:
     - Refer class ComparingByKeyAndValueInMap
+13) Merging two map with same key
+    - Refer class MergingMapsWithSameKey
