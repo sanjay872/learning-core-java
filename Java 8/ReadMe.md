@@ -39,3 +39,6 @@
     - Refer class ComparingByKeyAndValueInMap
 13) Merging two map with same key
     - Refer class MergingMapsWithSameKey
+14) EmployeeManagementSystem
+    - To practice java 8 features
+    - Refer EmployeeManagementSystem folder
