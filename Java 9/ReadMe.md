@@ -10,3 +10,7 @@
       - Have java 9 or higher in system.
       - execute jshell -v in cmd.
       - try java statements
+3. Immutable collections
+   - Immutable collections are the collections which can not be modified once they are created.
+   - Before java 9, unmodified collections are used for this purpose.
+   - Refer ImmutableCollections
