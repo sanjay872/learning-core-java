@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Java 10" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java 11" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java Collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Threads" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
