@@ -9,5 +9,14 @@
    - User Thread: It has the highest priority. Process won't stop until all the user threads are completed.
    - Daemon Thread: It has the lease priority. Process won't care much about daemon thread.
 6. Order to read:
-    - CreationOfThread
-    - TypesOfThread
+    - CreationOfThread : common way of creating thread
+    - ways of defining threads : different ways to create thread
+      - SeparateConcreteClass
+      - NestedClassOrStaticInnerClass
+      - InnerClassOrNonStaticInnerClass
+      - AsALocalInnerClass
+      - AnonymousInnerClass
+      - ClassItselfAsAThreadClass
+    - TypesOfThread : different types of threads
+    - NameAThreadAndIdentify : how to give name to a thread and also get its id
+    - ThreadPriorityAndSleep : how to set priority and sleep for a thread
