@@ -20,3 +20,7 @@
     - TypesOfThread : different types of threads
     - NameAThreadAndIdentify : how to give name to a thread and also get its id
     - ThreadPriorityAndSleep : how to set priority and sleep for a thread
+    - JoinThread : Thread class is used to maintain the order of execution of threads. Using join() method, you can make the currently executing thread to wait for some other threads to finish their task. 
+    - ThreadInterference : In java is a condition which occurs when more than one threads, executing simultaneously, access same piece of data.
+    - SynchronizationExample: way to avoid Thread interference.
+    - DeadlockExample: in java is a condition which occurs when two or more threads get blocked waiting for each other for an infinite period of time to release the resources(Locks) they hold. 
