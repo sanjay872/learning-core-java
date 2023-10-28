@@ -17,6 +17,33 @@ class SharedClass{
 }
 
 public class DeadlockExample {
+
+    public void createDeadLock(){
+        final SharedClass s1 = new SharedClass();
+        final SharedClass s2 = new SharedClass();
+
+        Thread t1 = new Thread()
+        {
+            public void run()
+            {
+                s1.sharedMethod1(s2);
+            }
+        };
+
+        Thread t2 = new Thread()
+        {
+            @Override
+            public void run()
+            {
+                s2.sharedMethod2(s1);
+            }
+        };
+
+        t1.start();
+
+        t2.start();
+    }
+
     public static void main(String[] args) {
         final SharedClass s1 = new SharedClass();
         final SharedClass s2 = new SharedClass();
