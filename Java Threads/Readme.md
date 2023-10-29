@@ -38,3 +38,11 @@
       - These three methods must be called within synchronized method or block.
     - ThreadInterruption :  Is a mechanism in which a thread which is either sleeping or waiting can be made to stop sleeping or waiting.
     - ThreadStates: Thread has various states.
+    - ThreadGroups: 
+      - Thread group in java is used to group similar threads into one unit. 
+      - A thread group can also contain other thread groups.
+      - Handles multiple threads at same time.
+    - StopThread: There two ways to stop a thread
+      - By using flag
+      - By using interrupt()
+    - PrintOddAndEvenNumbersInSync
