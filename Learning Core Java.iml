@@ -10,8 +10,20 @@
       <sourceFolder url="file://$MODULE_DIR$/Java Collections" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java Threads" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Data Structure and Algorithms" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Java Data Structure and Algorithms/Intro/algs4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/Java Data Structure and Algorithms/Intro/algs4.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
