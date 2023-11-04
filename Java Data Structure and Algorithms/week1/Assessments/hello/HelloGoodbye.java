@@ -1,4 +1,4 @@
-package Intro.hello;
+package week1.Assessments.hello;
 
 public class HelloGoodbye {
     public static void main(String[] args) {

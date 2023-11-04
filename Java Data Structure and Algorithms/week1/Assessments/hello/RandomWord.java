@@ -1,4 +1,4 @@
-package Intro.hello;
+package week1.Assessments.hello;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
